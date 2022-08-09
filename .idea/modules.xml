@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinApp.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/kotlinApp.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/kotlinApp.Application.iml" />
+    </modules>
+  </component>
+</project>
